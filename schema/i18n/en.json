@@ -1,0 +1,4 @@
+{
+  "plugin.baiducloud-dns.name": "Baidu Cloud - DNS",
+  "plugin.baiducloud-dns.description": "ACME DNS-01 via Baidu Cloud - DNS."
+}

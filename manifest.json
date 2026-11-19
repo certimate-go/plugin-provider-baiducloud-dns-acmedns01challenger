@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "baiducloud",
+  "binary": "baiducloud-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Baidu Cloud - DNS.",
+  "display_name_key": "plugin.baiducloud-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "baiducloud-dns",
+  "provider_aliases": [
+    "baiducloud"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}
